@@ -1,0 +1,14 @@
+[package]
+authors = ["issk"]
+name = "cross"
+version = "0.1.0"
+[dependencies]
+piston = "*"
+piston2d-graphics = "*"
+piston2d-opengl_graphics = "*"
+pistoncore-glutin_window = "*"
+rand = "0.3"
+docopt = "*"
+serde_derive = "1.0"
+serde_json = "1.0"
+serde = "1.0"
